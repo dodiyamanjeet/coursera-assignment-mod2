@@ -1,2 +1,2 @@
-# coursera-assignment-mod2
+assignment 2
 coursera assignment repository
